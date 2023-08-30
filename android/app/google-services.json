@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "949769759665",
+    "project_id": "stolen-app-60fb3",
+    "storage_bucket": "stolen-app-60fb3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949769759665:android:5049d629617ca56e9b2b90",
+        "android_client_info": {
+          "package_name": "com.example.stolen_devices_recovery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "949769759665-tm4ccs2o9qfjk8fma5kn86iajdfn1t5l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVA16qAYoZ5wuzllnhlu2xtmlPol4dyhk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "949769759665-tm4ccs2o9qfjk8fma5kn86iajdfn1t5l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
